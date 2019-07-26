@@ -15,12 +15,13 @@ body {
 }
 
 .link-content {
-    padding-left: 10px;;
+    padding-left: 10px;
+    ;
 }
 
 .logo {
-    max-width: 60px;
-    
+    width: 2.5rem;
+    margin-right: 0.5rem;
 }
 
 .ad-notice {
@@ -35,4 +36,3 @@ body {
 .flaticon-info {
     margin-top: 30px;
 }
-
