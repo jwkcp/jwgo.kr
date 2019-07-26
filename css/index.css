@@ -1,0 +1,38 @@
+body {
+    background-color: #222222;
+    padding-bottom: 70px;
+}
+
+.headline-container {
+    margin-top: 20px;
+}
+
+.link-container {
+    padding: 30px;
+    margin-top: 15px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.link-content {
+    padding-left: 10px;;
+}
+
+.logo {
+    max-width: 60px;
+    
+}
+
+.ad-notice {
+    color: gray;
+    text-align: center;
+}
+
+.disqus {
+    margin-top: 10px;
+}
+
+.flaticon-info {
+    margin-top: 30px;
+}
+
